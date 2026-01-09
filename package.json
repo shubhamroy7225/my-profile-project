@@ -9,7 +9,7 @@
     "react-document-title": "^2.0.3",
     "react-dom": "^16.6.0",
     "react-responsive-carousel": "^3.2.9",
-    "react-scripts": "2.1.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
